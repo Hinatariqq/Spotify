@@ -1,2 +1,0 @@
-# Spotify
-Automation Testing
